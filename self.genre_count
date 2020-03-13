@@ -1,0 +1,15 @@
+
+[1mFrom:[0m /home/kallenbach13/code/labs/ruby-oo-class-variables-and-class-methods-lab-london-web-030920/lib/song.rb @ line 43 :
+
+    [1;34m38[0m:           [32melse[0m new_hash[genre] = [1;34m1[0m
+    [1;34m39[0m:           [32mend[0m
+    [1;34m40[0m:         [32mend[0m
+    [1;34m41[0m:     [32mend[0m
+    [1;34m42[0m: 
+ => [1;34m43[0m:     binding.pry
+    [1;34m44[0m: 
+    [1;34m45[0m:     [32mdef[0m [1;36mself[0m.[1;34martist_count[0m
+    [1;34m46[0m:         new_hash = {}
+    [1;34m47[0m:         [36m@@artists[0m.each [32mdo[0m |artist| 
+    [1;34m48[0m:           [32mif[0m new_hash[artist]
+
